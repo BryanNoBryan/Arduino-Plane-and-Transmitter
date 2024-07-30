@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="/assets/old_plane_master.png" alt="master photo"></a>
 </p>
 <h3 align="center">Project Title</h3>
 
