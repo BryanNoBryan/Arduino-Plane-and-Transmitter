@@ -102,7 +102,7 @@ Reciever:
 - Electronics knowledge up to knowing how to use bypass/decoupling capacitors
 - Having fun
 
-## ⛏️ Built <a name = "Build"></a>
+## ⛏️ Build <a name = "Build"></a>
 
 Transmitter:
 Build any way you like, just feed the battery power directly into the NRF24l01+ adapter and get it to send out the data struct.
@@ -125,10 +125,14 @@ Solder together and secure with rope or velcro.
 
 ## 🎈 Usage <a name="usage"></a>
 
-Left joystick y-axis is throttle
-Left joystick x-axis is rudder (disabled for now)
-Right joystick x-axis is aileron control
-Right joystick y-axis is elevator control
+Left joystick y-axis is throttle<br/>
+Left joystick x-axis is rudder (disabled for now)<br/>
+Right joystick x-axis is aileron control<br/>
+Right joystick y-axis is elevator control<br/>
+<br/>
+Press both at the same time to initiate startup sequence, press both again to pause throttle
+<br/>
+<br/>
 
 LEARN HOW TO FLY A PLANE, THERE IS NO FLIGHT CONTROL SOFTWARE NOR GYROSCOPE/ACCELEROMETER
 - [Flight Game](https://www.geo-fs.com/): https://www.geo-fs.com/
