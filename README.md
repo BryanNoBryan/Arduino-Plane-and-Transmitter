@@ -42,9 +42,11 @@ Create a simple plane with a front motor with ailerons, elevator, rudder, and la
 - - Thus I opted to use the 3.3v line directly off the arduino with an additional 22uF electrolytic capacitor directly soldered onto the NRF24l01 3.3v and GND lines.
 
 ## 💡 Design <a name = "design"></a>
-
+Reciever
 ![reciever](assets/plane_reciever.jpg)
 
+
+Controller
 ![controller](assets/plane_controller.jpg)
 
 Data structure:
