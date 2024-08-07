@@ -43,7 +43,7 @@ Create a simple plane with a front motor with ailerons, elevator, rudder, and la
 
 ## 💡 Design <a name = "design"></a>
 Reciever
-![reciever](assets/plane_reciever.jpg)
+![reciever](assets/plane_reciever1.jpg)
 
 
 Controller
