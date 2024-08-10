@@ -79,7 +79,7 @@ Electrical:
 - 2x Arduino Nano
 - Various wires and PWM 3-pin wires
 - Wire Stripper
-- 5x 22uF electroyltic capacitor (ceramic also works)
+- 5x 22uF electrolytic capacitor (ceramic also works)
 
 Transmitter:
 - 9x AA battery holder
